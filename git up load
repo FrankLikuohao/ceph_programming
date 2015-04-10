@@ -1,0 +1,3 @@
+git init
+git remote add origin https://github.com/FrankLikuohao/ceph_programming.git
+git push -u origin master
